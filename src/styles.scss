@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .card {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1, h2 {
+    color: #ff5722;
+  }
+  
+  a {
+    color: #03a9f4;
+    text-decoration: none;
+  }
+  
